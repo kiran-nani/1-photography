@@ -1,0 +1,10 @@
+{
+  "name": "photography",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uncss": "^1.0.6"
+  }
+}

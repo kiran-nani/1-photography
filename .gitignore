@@ -1,0 +1,5 @@
+/public
+/node_modules
+package.json
+gulpfile.json
+yarn.lock
